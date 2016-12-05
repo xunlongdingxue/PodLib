@@ -1,0 +1,22 @@
+{
+  "name": "PodLib",
+  "version": "0.1.0",
+  "summary": "A short description of PodLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/xunlongdingxue/PodLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lichangqing": "914078998@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/xunlongdingxue/PodLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodLib/Classes/**/*"
+}
