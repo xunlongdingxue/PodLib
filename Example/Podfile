@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PodLib_Example' do
+  pod 'PodLib', :path => '../'
+
+  target 'PodLib_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
